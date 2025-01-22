@@ -1,4 +1,1 @@
-
-
 # asl-live-translation
-TEST
